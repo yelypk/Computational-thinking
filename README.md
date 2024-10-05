@@ -1,2 +1,2 @@
 # practice
-my solvings from the University and sites 
+my solvings from the University and online platforms
