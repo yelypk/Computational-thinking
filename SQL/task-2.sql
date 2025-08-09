@@ -1,0 +1,1 @@
+SELECT * FROM `vacancies` WHERE `name` LIKE "%QA%"
